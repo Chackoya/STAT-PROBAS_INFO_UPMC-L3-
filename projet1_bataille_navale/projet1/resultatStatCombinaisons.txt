@@ -1,0 +1,80 @@
+Taille des bateaux : 5 et 5, façon de le placer : 11920
+Taille des bateaux : 5 et 4, façon de le placer : 14400
+Taille des bateaux : 5 et 3, façon de le placer : 17040
+Taille des bateaux : 5 et 2, façon de le placer : 19840
+Taille des bateaux : 4 et 5, façon de le placer : 14400
+Taille des bateaux : 4 et 4, façon de le placer : 17292
+Taille des bateaux : 4 et 3, façon de le placer : 20336
+Taille des bateaux : 4 et 2, façon de le placer : 23532
+Taille des bateaux : 3 et 5, façon de le placer : 17040
+Taille des bateaux : 3 et 4, façon de le placer : 20336
+Taille des bateaux : 3 et 3, façon de le placer : 23768
+Taille des bateaux : 3 et 2, façon de le placer : 27336
+Taille des bateaux : 2 et 5, façon de le placer : 19840
+Taille des bateaux : 2 et 4, façon de le placer : 23532
+Taille des bateaux : 2 et 3, façon de le placer : 27336
+Taille des bateaux : 2 et 2, façon de le placer : 31252
+Taille des bateaux : 5 et 5 et 5, façon de le placer : 983520
+Taille des bateaux : 5 et 5 et 4, façon de le placer : 1225560
+Taille des bateaux : 5 et 5 et 3, façon de le placer : 1497920
+Taille des bateaux : 5 et 5 et 2, façon de le placer : 1803600
+Taille des bateaux : 5 et 4 et 5, façon de le placer : 1225560
+Taille des bateaux : 5 et 4 et 4, façon de le placer : 1521408
+Taille des bateaux : 5 et 4 et 3, façon de le placer : 1850736
+Taille des bateaux : 5 et 4 et 2, façon de le placer : 2216256
+Taille des bateaux : 5 et 3 et 5, façon de le placer : 1497920
+Taille des bateaux : 5 et 3 et 4, façon de le placer : 1850736
+Taille des bateaux : 5 et 3 et 3, façon de le placer : 2239872
+Taille des bateaux : 5 et 3 et 2, façon de le placer : 2667272
+Taille des bateaux : 5 et 2 et 5, façon de le placer : 1803600
+Taille des bateaux : 5 et 2 et 4, façon de le placer : 2216256
+Taille des bateaux : 5 et 2 et 3, façon de le placer : 2667272
+Taille des bateaux : 5 et 2 et 2, façon de le placer : 3158112
+Taille des bateaux : 4 et 5 et 5, façon de le placer : 1225560
+Taille des bateaux : 4 et 5 et 4, façon de le placer : 1521408
+Taille des bateaux : 4 et 5 et 3, façon de le placer : 1850736
+Taille des bateaux : 4 et 5 et 2, façon de le placer : 2216256
+Taille des bateaux : 4 et 4 et 5, façon de le placer : 1521408
+Taille des bateaux : 4 et 4 et 4, façon de le placer : 1879416
+Taille des bateaux : 4 et 4 et 3, façon de le placer : 2273760
+Taille des bateaux : 4 et 4 et 2, façon de le placer : 2707008
+Taille des bateaux : 4 et 3 et 5, façon de le placer : 1850736
+Taille des bateaux : 4 et 3 et 4, façon de le placer : 2273760
+Taille des bateaux : 4 et 3 et 3, façon de le placer : 2735440
+Taille des bateaux : 4 et 3 et 2, façon de le placer : 3237624
+Taille des bateaux : 4 et 2 et 5, façon de le placer : 2216256
+Taille des bateaux : 4 et 2 et 4, façon de le placer : 2707008
+Taille des bateaux : 4 et 2 et 3, façon de le placer : 3237624
+Taille des bateaux : 4 et 2 et 2, façon de le placer : 3809496
+Taille des bateaux : 3 et 5 et 5, façon de le placer : 1497920
+Taille des bateaux : 3 et 5 et 4, façon de le placer : 1850736
+Taille des bateaux : 3 et 5 et 3, façon de le placer : 2239872
+Taille des bateaux : 3 et 5 et 2, façon de le placer : 2667272
+Taille des bateaux : 3 et 4 et 5, façon de le placer : 1850736
+Taille des bateaux : 3 et 4 et 4, façon de le placer : 2273760
+Taille des bateaux : 3 et 4 et 3, façon de le placer : 2735440
+Taille des bateaux : 3 et 4 et 2, façon de le placer : 3237624
+Taille des bateaux : 3 et 3 et 5, façon de le placer : 2239872
+Taille des bateaux : 3 et 3 et 4, façon de le placer : 2735440
+Taille des bateaux : 3 et 3 et 3, façon de le placer : 3271008
+Taille des bateaux : 3 et 3 et 2, façon de le placer : 3848040
+Taille des bateaux : 3 et 2 et 5, façon de le placer : 2667272
+Taille des bateaux : 3 et 2 et 4, façon de le placer : 3237624
+Taille des bateaux : 3 et 2 et 3, façon de le placer : 3848040
+Taille des bateaux : 3 et 2 et 2, façon de le placer : 4499696
+Taille des bateaux : 2 et 5 et 5, façon de le placer : 1803600
+Taille des bateaux : 2 et 5 et 4, façon de le placer : 2216256
+Taille des bateaux : 2 et 5 et 3, façon de le placer : 2667272
+Taille des bateaux : 2 et 5 et 2, façon de le placer : 3158112
+Taille des bateaux : 2 et 4 et 5, façon de le placer : 2216256
+Taille des bateaux : 2 et 4 et 4, façon de le placer : 2707008
+Taille des bateaux : 2 et 4 et 3, façon de le placer : 3237624
+Taille des bateaux : 2 et 4 et 2, façon de le placer : 3809496
+Taille des bateaux : 2 et 3 et 5, façon de le placer : 2667272
+Taille des bateaux : 2 et 3 et 4, façon de le placer : 3237624
+Taille des bateaux : 2 et 3 et 3, façon de le placer : 3848040
+Taille des bateaux : 2 et 3 et 2, façon de le placer : 4499696
+Taille des bateaux : 2 et 2 et 5, façon de le placer : 3158112
+Taille des bateaux : 2 et 2 et 4, façon de le placer : 3809496
+Taille des bateaux : 2 et 2 et 3, façon de le placer : 4499696
+Taille des bateaux : 2 et 2 et 2, façon de le placer : 5229672
